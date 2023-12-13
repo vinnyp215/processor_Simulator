@@ -2,8 +2,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(){
+typedef unsigned char BYTE;
+typedef unsigned short WORD;
+struct CPU
+{
+  
+}
 
-
-
+int main()
+{
+  return 0;
 }
